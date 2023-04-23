@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hi! I'm Rico An ordinary Web Developer , i’m always tinkering, sometimes music-ing. Lately interested PHP Framework LARAVEL && JS Library VUE.JS
+Hi! I'm Rico. An ordinary Web Developer , i’m always tinkering, sometimes music-ing. Lately interested PHP Framework LARAVEL && JS Library VUE.JS
 
 
 ## Social Media
