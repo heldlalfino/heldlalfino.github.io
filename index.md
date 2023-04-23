@@ -28,6 +28,4 @@ You can see all project on [here](https://github.com/bezicalboy?tab=repositories
 
 ## Motivational
 
-Here is a blockquote
-
 > To a great mind, nothing is little
