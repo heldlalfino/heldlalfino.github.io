@@ -1,5 +1,5 @@
-title: Bezicalboy
-url: "https://bezicalboy.is-a.dev"
+title: Heldlalfino
+url: "https://heldlalfino.github.io"
 baseurl: "/"
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/bezicalboy"
-footer_text: "bezicalboy"
+footer_url: "https://github.com/heldlalfino"
+footer_text: "heldlalfino"
 
 sass:
     style: compressed
