@@ -3,19 +3,16 @@ layout: default
 ---
 
 ## About Me
+![342371440_1408276393265727_8679627848371289920_n](https://user-images.githubusercontent.com/132644788/236389380-4136bf85-6eff-4dd7-8cfb-277c1414f7e4.jpg)
 
-<img class="profile-picture" src="profile.png">
+<img class="profile-picture" src="https://user-images.githubusercontent.com/132644788/236389380-4136bf85-6eff-4dd7-8cfb-277c1414f7e4.jpg">
 
-Hi! I'm Rico. An ordinary Web Developer , i’m always tinkering, sometimes music-ing. Lately interested in PHP Framework LARAVEL && JS Library VUE.JS
+Hi! I'm Herdi. Fresh Graduate , i’m always tinkering, sometimes music-ing. Lately interested in Microsoft Excel & Design
 
 
 ## Social Media
-[Facebook](https://www.facebook.com/ricocrfqq11) / [Linkedin](https://www.linkedin.com/in/muhamad-rico-wijaya-576509242/) / [Instagram](https://www.instagram.com/bezicalboy/)
+[Instagram](https://www.instagram.com/heldlalfino/)
 
-
-## Project
-
-You can see all project on [here](https://github.com/bezicalboy?tab=repositories)
 
 
 ## Hobbies
